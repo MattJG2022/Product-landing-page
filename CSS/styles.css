@@ -1,0 +1,37 @@
+body {
+  background-image: url('https://manofmany.com/wp-content/uploads/2018/06/13-Best-Rare-and-Vintage-Guitar-Stores-in-Sydney-Gladesville-Guitar-Factory.jpg');
+}
+
+.nav-link {
+  color: yellow;
+  font-size: 35px;
+  position: relative;
+  left: 490px;
+}
+
+@Media (max-width: 500px;) body {
+  flex-wrap: wrap;
+}
+
+header {
+  display: flex;
+}
+
+
+#video {
+margin-left: auto;
+margin-right: auto;
+margin-top: 220px;
+display: block;
+position: relative;
+}
+
+#header-img {
+  background-color: green;
+}
+
+#form {
+  display: block;
+  position: relative;
+  left: 672px;
+}
