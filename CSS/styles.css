@@ -4,9 +4,9 @@ body {
 
 .nav-link {
   color: yellow;
-  font-size: 35px;
+  font-size: 90px;
   position: relative;
-  left: 490px;
+  left: 200px;
 }
 
 @Media (max-width: 500px;) body {
@@ -21,17 +21,20 @@ header {
 #video {
 margin-left: auto;
 margin-right: auto;
-margin-top: 220px;
+margin-top: 420px;
 display: block;
 position: relative;
+width: 800px;
+height: 500px;
 }
 
 #header-img {
   background-color: green;
+  width: 450px;
 }
 
 #form {
   display: block;
   position: relative;
-  left: 672px;
+  left: 544px;
 }
